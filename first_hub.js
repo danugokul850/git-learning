@@ -9,3 +9,6 @@ console.log(footer);
 const payment = "payment gateway is added";
 console.log(payment);
 
+const upi = "Upi integrated";
+console.log(upi);
+
